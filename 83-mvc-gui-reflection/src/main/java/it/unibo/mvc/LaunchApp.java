@@ -8,7 +8,7 @@ import it.unibo.mvc.api.DrawNumberView;
 import it.unibo.mvc.controller.DrawNumberControllerImpl;
 import it.unibo.mvc.model.DrawNumberImpl;
 import it.unibo.mvc.view.DrawNumberSwingView;
-
+import it.unibo.mvc.view.DrawNumberStandardOutputView;
 /**
  * Application entry-point.
  */
